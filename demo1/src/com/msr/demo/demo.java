@@ -6,7 +6,8 @@ public class demo {
         System.out.println(111);
         System.out.println(222);
         int key = 1;
-        int i = i;        
+        int i = 1;
+        int s=19;
 
         int j = 10;
 
