@@ -8,7 +8,7 @@ public class demo {
         int key = 1;
         int i = 1;
         int s=19;
-
+        int d = 20;
         int j = 10;
 
     }
