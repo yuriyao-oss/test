@@ -10,6 +10,7 @@ public class demo {
         int s=19;
         int d = 20;
         int j = 10;
+        int d2 = 30;
 
     }
 }
