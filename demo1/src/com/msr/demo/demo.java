@@ -8,6 +8,7 @@ public class demo {
         int key = 1;
         int i = 1;
         int s=19;
+        System.out.println(123);
 
     }
 }
